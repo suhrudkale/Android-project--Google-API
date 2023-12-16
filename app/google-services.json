@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "913376257167",
+    "project_id": "mall-crowd",
+    "storage_bucket": "mall-crowd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:913376257167:android:f3e6fc1063658582fefcfa",
+        "android_client_info": {
+          "package_name": "com.example.project_2_test_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBX4NMlEZoNh5PAP7Wo0alSanqjkaBZf60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
