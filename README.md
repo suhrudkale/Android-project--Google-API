@@ -27,23 +27,37 @@ Viewing Mall Crowd Density:
 
 **Code Structure**
 1. FragmentOne: Handles the map view and location-based services to find the nearest mall.
-    Key methods: onMapReady, updateLocationUI, getNearestMall.
+
+    Key method: onMapReady, updateLocationUI, getNearestMall.
+   
 2.FragmentTwo: Manages data retrieval from Firebase Firestore to display crowd density.
+
     Key method: displayData.
+    
 3.MainActivity: Manages the bottom navigation and fragment transactions.
+
 4.Places Response and Results: Data models for handling API responses from Google Maps API.
 
 **Dependencies**
+
 1.Firebase Firestore
+
 2.Google Maps API
+
 3.Google Places API
+
 4.OkHttpClient
 
 **Contributing**
+
 Contributions to improve CrowdSense are welcomed. Please follow these steps:
 
 1.Fork the repository.
+
 2.Create a new branch (git checkout -b feature-branch).
+
 3.Make changes and commit (git commit -am 'Add some feature').
+
 4.Push to the branch (git push origin feature-branch).
+
 5.Create a new Pull Request.
